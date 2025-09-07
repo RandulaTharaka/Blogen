@@ -21,7 +21,7 @@ post details.
 - FontAwesome icons
 
 ## 📁 Folder Structure
-
+```
 Blogen/
 ├── categories.html      # Manage categories
 ├── details.html         # Post details page
@@ -36,14 +36,23 @@ Blogen/
 ├── img/
 │   ├── avatar.png       # Default avatar
 │   └── screens.jpg      # Screenshots
-## 🚀 Getting Started
+
+```
+## 📦 Installation
 
 1. Clone the repository: git clone https://github.com/RandulaTharaka/Blogen.git
-2. 2. Open the `Blogen` folder in your code editor.
+2. Open the `Blogen` folder in your code editor.
 3. Open `index.html` in your browser to view the dashboard.
 
-> No build steps or backend required. All pages are static HTML/CSS.
->
-> ## 📄 License
+ ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 🤝 Connect With Me
+
+I'm passionate about building full-stack applications and open to new opportunities in software development.
+
+Feel free to connect or reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Randula%20Tharaka-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/randula-tharaka-79a61a145/)
+[![Email](https://img.shields.io/badge/Email-iamrandula%40gmail.com-red?style=flat-square&logo=gmail)](mailto:iamrandula@gmail.com)
