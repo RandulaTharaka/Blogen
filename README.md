@@ -22,10 +22,20 @@ post details.
 
 ## 📁 Folder Structure
 
-Here is the Markdown (.md) version for your README:
-
-Blogen/ ├── categories.html # Manage categories ├── details.html # Post details page ├── index.html # Dashboard home ├── login.html # Login page ├── posts.html # Manage posts ├── profile.html # User profile ├── settings.html # Settings page ├── users.html # Manage users ├── css/ │ └── style.css # Custom styles ├── img/ │ ├── avatar.png # Default avatar │ └── screens.jpg # Screenshots
-
+Blogen/
+├── categories.html      # Manage categories
+├── details.html         # Post details page
+├── index.html           # Dashboard home
+├── login.html           # Login page
+├── posts.html           # Manage posts
+├── profile.html         # User profile
+├── settings.html        # Settings page
+├── users.html           # Manage users
+├── css/
+│   └── style.css        # Custom styles
+├── img/
+│   ├── avatar.png       # Default avatar
+│   └── screens.jpg      # Screenshots
 ## 🚀 Getting Started
 
 1. Clone the repository: git clone https://github.com/RandulaTharaka/Blogen.git
