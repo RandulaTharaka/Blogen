@@ -2,7 +2,7 @@
 
 > Built with HTML & Bootstrap
 
-🌐 Visit Site: [www.blogen.com](https://)
+🌐 [Visit Site](https://randulatharaka.github.io/Blogen/)
 
 Blogen is a blog management dashboard built with HTML and
 Bootstrap. It includes pages for managing categories,
@@ -21,6 +21,7 @@ post details.
 - FontAwesome icons
 
 ## 🧩 Project Structure
+
 ```
 Blogen/
 ├── categories.html      # Manage categories
@@ -38,13 +39,14 @@ Blogen/
 │   └── screens.jpg      # Screenshots
 
 ```
+
 ## 📦 Installation
 
 1. Clone the repository: git clone https://github.com/RandulaTharaka/Blogen.git
 2. Open the `Blogen` folder in your code editor.
 3. Open `index.html` in your browser to view the dashboard.
 
- ## 📄 License
+## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
